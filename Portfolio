@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>My-Portfolio</title>
+  </head>
+  <body>
+    <div>
+      <h1> Alan Herrera </h1>
+      <h2>Software Developer</h2>
+      <hr>
+    </div>
+    <p>
+      my favorite thing about programming is the grind.
+    </p>
+    <div>
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7-TITmy7kzl8UViFMaiYqg_lYOQOv6zPtUvYbMQFlnvNL5JhsSwxg_s2P1--4CwAN4fX7LXutoyVDy63B25QCRjlR4Z84Gfwi6-dqa3uD_oapXgn_qjTkPfB082a1tABGr8UIfVeRgzfC8yD0cQmaockxNOmyp6zwgXfnT2w-P3aJYjTMe2Pu-reh8w/s160/Thor-4.jpg">
+      
+      
+  </div>
+    <h3>
+      <p> About Me</p>
+      lorem ipsum
+    </h3>
+    <h3>
+      <p> My Projects</p>
+      <ul>
+        <li>project one</li>
+        <li>project two</li>
+        <li>project three</li>
+        
+      </ul>
+    </h3>
+    <h3>contact me</h3>
+    //
+  
+      <p> (999)999-9999</p>
+      <a href="fakeemail@gmail.com">email me</a>
+    
+      
+  </div>
